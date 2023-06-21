@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING570, HW8, 11/22/2021. Reads in an HMM model, stores it, and implements the Viterbi algorithm."""
-
 import os
 import re
 import sys

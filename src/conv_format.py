@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING570, HW8, 11/27/2021. Converts Viterbi output to another format."""
-
 import sys
 import re
 
